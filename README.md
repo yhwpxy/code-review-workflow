@@ -170,14 +170,4 @@ python -m unittest discover -s tests -v
 
 详见 [Design.md](./Design.md) 第 5 节。
 
-## 九、打包提交
-
-按作业要求，把整个目录打包为「学号姓名」命名的压缩包：
-
-```bash
-# 以学号 2412190722、姓名 尹鸿玮 为例
-zip -r "2412190722-计科2403尹鸿玮-HW2.zip" code-review-workflow
 ```
-
-压缩包内容 = ① 源代码（本项目）② 文档（README.md / Design.md）。
-演示视频为可选项，需另外录制（≤ 1 分钟）。
