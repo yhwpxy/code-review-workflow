@@ -1,0 +1,8 @@
+# 本项目零第三方依赖，仅使用 Python 标准库。
+#
+# 运行无需安装任何包：
+#   - HTTP 调用使用 urllib（标准库）
+#   - 静态分析使用 ast（标准库）
+#   - 单元测试使用 unittest（标准库）
+#
+# 如需接入真实 LLM，只需在 config.json 里填 API key，无需额外安装 SDK。

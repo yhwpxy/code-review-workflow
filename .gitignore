@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 本地配置（含 API key，切勿提交）
+config.json
+
+# 生成的报告
+report.md
+
+# 打包产物
+*.zip
+*.7z
+
+# 虚拟环境 / 编辑器
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
