@@ -108,7 +108,7 @@ python run.py "..." -o result.json
   [reviewer] finish 审查通过：未发现问题
 ```
 
-## 五、可视化界面（可选）
+## 五、可视化界面
 
 ```bash
 python run.py "写一个处理数据的函数" --web
